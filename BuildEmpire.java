@@ -11,6 +11,10 @@ public class BuildEmpire {
         System.out.println("Mpbile Number ");
         System.out.println("Enter the age : ");
         
-        
+        //From the HomePageBuilding ---> Building the Homepage of our Project 
+        System.out.println("Welcome to HomePage ");
+        System.out.println("Dashboard : ");
+        System.out.println("Order : Buy something Special !!!");
+        // --------------homepage Buliding successfully --------------------------        
     }
 }

@@ -6,6 +6,11 @@ public class BuildEmpire {
         System.out.println("Name :");
         System.out.println("Password: ");
         System.out.println("___________________________________");
+        //From git Registration Branch---> Building Registration Page with Authontication 
+        System.out.println("Name : ");//authicate 
+        System.out.println("Mpbile Number ");
+        System.out.println("Enter the age : ");
+        
         
     }
 }

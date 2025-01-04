@@ -6,6 +6,10 @@ public class BuildEmpire {
         System.out.println("Name :");
         System.out.println("Password: ");
         System.out.println("___________________________________");
-        
+        //From the HomePageBuilding ---> Building the Homepage of our Project 
+        System.out.println("Welcome to HomePage ");
+        System.out.println("Dashboard : ");
+        System.out.println("Order : Buy something Special !!!");
+        // --------------homepage Buliding successfully --------------------------        
     }
 }
